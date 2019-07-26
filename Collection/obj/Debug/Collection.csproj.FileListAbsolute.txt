@@ -1,0 +1,6 @@
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Collection\bin\Debug\Collection.exe.config
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Collection\bin\Debug\Collection.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Collection\bin\Debug\Collection.pdb
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Collection\obj\Debug\Collection.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Collection\obj\Debug\Collection.pdb

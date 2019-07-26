@@ -1,0 +1,6 @@
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Programs1\bin\Debug\Programs1.exe.config
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Programs1\bin\Debug\Programs1.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Programs1\bin\Debug\Programs1.pdb
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Programs1\obj\Debug\Programs1.csprojResolveAssemblyReference.cache
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Programs1\obj\Debug\Programs1.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Programs1\obj\Debug\Programs1.pdb

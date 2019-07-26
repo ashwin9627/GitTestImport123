@@ -1,0 +1,6 @@
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\MethodPro\bin\Debug\MethodPro.exe.config
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\MethodPro\bin\Debug\MethodPro.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\MethodPro\bin\Debug\MethodPro.pdb
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\MethodPro\obj\Debug\MethodPro.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\MethodPro\obj\Debug\MethodPro.pdb
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\MethodPro\obj\Debug\MethodPro.csprojResolveAssemblyReference.cache

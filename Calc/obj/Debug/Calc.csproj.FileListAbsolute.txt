@@ -1,0 +1,6 @@
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Calc\bin\Debug\Calc.exe.config
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Calc\bin\Debug\Calc.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Calc\bin\Debug\Calc.pdb
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Calc\obj\Debug\Calc.exe
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\Calc\obj\Debug\Calc.pdb

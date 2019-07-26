@@ -1,0 +1,10 @@
+c:\users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe.config
+c:\users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe
+c:\users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.pdb
+c:\users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csprojResolveAssemblyReference.cache
+c:\users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.exe
+c:\users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.pdb
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\EntityFramework.dll
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\EntityFramework.xml
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\EntityFramework.SqlServer.xml

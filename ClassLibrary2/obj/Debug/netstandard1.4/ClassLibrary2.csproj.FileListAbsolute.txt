@@ -1,0 +1,7 @@
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\ClassLibrary2\bin\Debug\netstandard1.4\ClassLibrary2.deps.json
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\ClassLibrary2\bin\Debug\netstandard1.4\ClassLibrary2.dll
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\ClassLibrary2\bin\Debug\netstandard1.4\ClassLibrary2.pdb
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\ClassLibrary2\obj\Debug\netstandard1.4\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\ClassLibrary2\obj\Debug\netstandard1.4\ClassLibrary2.AssemblyInfo.cs
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\ClassLibrary2\obj\Debug\netstandard1.4\ClassLibrary2.dll
+C:\Users\ashwinkumar\documents\visual studio 2017\Projects\SchoolProject\ClassLibrary2\obj\Debug\netstandard1.4\ClassLibrary2.pdb
