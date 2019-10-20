@@ -27,6 +27,7 @@ namespace MethodPro
         {
             //base.emp();// this is to use the same member of the base class in the derived class 
             Console.WriteLine("part time employee",firstname + " " + lastname);
+            Console.WriteLine("Hi {0}",firstname+lastname);
             Console.ReadLine();
         }
     }
